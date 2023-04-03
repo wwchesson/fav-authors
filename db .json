@@ -1,0 +1,34 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Ursula LeGuin",
+      "books": ["The Left Hand of Darkness", "The Word for World Is Forest"],
+      "video": "https://www.youtube.com/watch?v=s2v7RDyo7os"
+    },
+    {
+      "id": 2,
+      "name": "David Mitchell",
+      "books": ["Cloud Atlas", "The Thousand Autumns of Jacob De Zoet"],
+      "video": "https://www.youtube.com/watch?v=SbLNRxw3tZ8"
+    },
+    {
+      "id": 3,
+      "name": "Cormac McCarthy",
+      "books": ["Blood Meridian", "The Road"],
+      "video": "https://www.youtube.com/watch?v=-nCnYuvcNjc"
+    },
+    {
+      "id": 4,
+      "name": "Karen Armstrong",
+      "books": ["Buddha", "The Great Transformation"],
+      "video": "https://www.youtube.com/watch?v=bhHJ4DRZNZM"
+    },
+    {
+      "id": 5,
+      "name": "Julio Cortazar",
+      "books": ["Rayuela", "El autopista del sur"],
+      "video": "https://www.youtube.com/watch?v=5ng4zKNwUCk"
+    }
+  ]
+}
