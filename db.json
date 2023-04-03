@@ -3,30 +3,35 @@
     {
       "id": 1,
       "name": "Ursula LeGuin",
+      "image": "https://www.pbs.org/wnet/americanmasters/files/2019/07/0352_BLP_UKL_Young-400x400.jpg",
       "books": ["The Left Hand of Darkness", "The Word for World Is Forest"],
       "video": "https://www.youtube.com/watch?v=s2v7RDyo7os"
     },
     {
       "id": 2,
       "name": "David Mitchell",
+      "image": "https://media.npr.org/assets/artslife/books/2010/07/the-thousand-autumns/david-mitchell-7f170c34ca0736ffd3b0bc1e1323a38d4b17b3da.jpg",
       "books": ["Cloud Atlas", "The Thousand Autumns of Jacob De Zoet"],
       "video": "https://www.youtube.com/watch?v=SbLNRxw3tZ8"
     },
     {
       "id": 3,
       "name": "Cormac McCarthy",
+      "image": "https://s26162.pcdn.co/wp-content/uploads/2018/09/160628-cormac1-mccarthy-cheat_ytzv7e.jpeg",
       "books": ["Blood Meridian", "The Road"],
       "video": "https://www.youtube.com/watch?v=-nCnYuvcNjc"
     },
     {
       "id": 4,
       "name": "Karen Armstrong",
+      "image": "https://charterforcompassion.org/images/menus/about/armstrong.jpg",
       "books": ["Buddha", "The Great Transformation"],
       "video": "https://www.youtube.com/watch?v=bhHJ4DRZNZM"
     },
     {
       "id": 5,
       "name": "Julio Cortazar",
+      "image": "https://miro.medium.com/v2/resize:fit:1008/format:webp/1*_UnxdvFnz0IIWv1WFtc3TQ.jpeg",
       "books": ["Rayuela", "El autopista del sur"],
       "video": "https://www.youtube.com/watch?v=5ng4zKNwUCk"
     }
