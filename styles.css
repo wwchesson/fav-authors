@@ -28,3 +28,13 @@ header {
   margin-right: 0.5rem;
   cursor: pointer;
 }
+
+.image-detail {
+    margin-top: 40px;
+    width: 400px;
+    height: 400px;
+}
+
+.author-name {
+    color: white
+}
